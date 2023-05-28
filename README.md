@@ -1,5 +1,5 @@
 # Author---GradientBalance
-This is the code of the paper, "Gradient Balance Prior for Centrosymmetric Cross Point Detection and Localization"
+This is the code of the paper, "Detecting Cross Points with Subpixel Accuracy based on Gradient Balance Prior and Vanishing Power Transform"
 ## Introduction
 In this paper, we propose a brief centrosymmetric cross point detection and localization method based on our gradient balance piror.
 
