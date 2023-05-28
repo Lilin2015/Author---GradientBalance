@@ -1,12 +1,12 @@
 # Author---GradientBalance
 This is the code of the paper, "Detecting Cross Points with Subpixel Accuracy based on Gradient Balance Prior and Vanishing Power Transform"
 ## Introduction
-In this paper, we propose a brief centrosymmetric cross point detection and localization method based on our gradient balance piror.
+In this paper, we propose gradient balance prior to centrosymmetric cross patterns. Using this prior, we develop vanishing power transform to convert grayscale images into response maps, highlighting every cross point satisfying centrosymmetry condition as humps.
 
 ## Centrosymmetric cross point
-cross points with centrosymmetry.
+Examples of centrosymmetric and non-centrosymmetric cross points.
 
-![image](https://user-images.githubusercontent.com/17568542/201601534-835900a1-c1af-44ee-80ca-5f631b025050.png)
+![image](https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/b5b4c371-361d-410e-b233-30f279b76e7a)
 
 ## Gradient balance prior and Vanishing power map
 Gradient balance prior: the vector sum of the gradients surrounding a centrosymmetric cross point is zero.
