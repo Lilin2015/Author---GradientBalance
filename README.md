@@ -11,18 +11,18 @@ Examples of centrosymmetric and non-centrosymmetric cross points.
 ## Gradient balance prior and Vanishing power map
 Gradient balance prior: the vector sum of the gradients surrounding a centrosymmetric cross point is zero.
 
-Vanishing power map: the vanishing power of the gradients around each pixel.
+Vanishing power transform: convert grayscale images into response maps.
 
-The whole map V can be calculated by
+The whole Vanishing power map V can be calculated by the tranform
 
 ![image](https://user-images.githubusercontent.com/17568542/201604838-ff0e3855-953f-48ef-a400-cc292c80582c.png)
 
-where Gx, Gy is the gradients, k is a sampling kernel.   
+where Gx, Gy is the gradients, k is a isotropix low-pass sampling kernel.   
 
 ![image](https://user-images.githubusercontent.com/17568542/201600973-15d49af0-f23b-4c0c-a457-6af49e3cd324.png)
 
 a) A checkerboard cross point and its gradient vectors; 
-b,c) The response map of vanishing power.
+b,c) Its vanishing power map.
 
 ## How to use
 For algorithm, run the "example_detection_and_localization.m".
