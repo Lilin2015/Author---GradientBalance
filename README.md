@@ -32,7 +32,7 @@ main1_gradient_balance_and_vanishing_power: cross points and their vanishing pow
 
 main2_examples_of_different_images_and_response_maps: images and their vanishing power map.
 
-<img src="https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/64b875f8-03b7-4130-98a5-db672af61760" width="600">
+<img src="https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/f6faf768-782b-47fd-a314-b386aac2cdd2" width="600">
 
 main3_different_detectors_with_tiling: the results of different cross point (corner) detectors. The top 45 pixels
 are marked
