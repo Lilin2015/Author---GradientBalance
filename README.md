@@ -27,7 +27,7 @@ b,c) Its vanishing power map.
 ## How to use
 For algorithm, run the "mainX_XXX.m".
 main1_gradient_balance_and_vanishing_power: cross points and their vanishing power map.
-![image](https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/1e9d4ead-4cf1-4039-8b10-59f5d6e15375)
+![image](https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/1e9d4ead-4cf1-4039-8b10-59f5d6e15375 width="100px")
 
 main2_examples_of_different_images_and_response_maps: images and their vanishing power map.
 ![image](https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/64b875f8-03b7-4130-98a5-db672af61760)
