@@ -45,5 +45,6 @@ main4 ~ main6: the accuracy comparison of differnet subpixel refinement methods 
 
 main7_reprojectionRrror: the accuracy comparison of differnet subpixel refinement methods with real images
 
-<img src="https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/eb8e7cfc-1c0e-4039-8877-39a8ec9bb36a" width="400">
-<img src="https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/b5ed1105-3de9-4840-9eb3-734d3d6d49cf" width="400">
+
+<img src="https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/99023b3e-b8e2-49a0-984d-690539eb7cad" width="250">
+<img src="https://github.com/Lilin2015/Author---GradientBalance/assets/17568542/b5ed1105-3de9-4840-9eb3-734d3d6d49cf" width="250">
